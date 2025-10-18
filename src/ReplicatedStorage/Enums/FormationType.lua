@@ -1,0 +1,5 @@
+return {
+	"Line",
+	"Wedge",
+	"Circle",
+}

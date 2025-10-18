@@ -1,0 +1,5 @@
+return {
+	"Melee",
+	"KeepDistance",
+	"Flexible",
+}
